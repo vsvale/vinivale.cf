@@ -1,0 +1,41 @@
+.business-card ul{
+    list-style: none;
+    padding-left: 0px;
+  }
+
+  .business-card ul li{
+    display: inline;
+    padding: 10px;
+  }
+  .business-card ul address{
+    display: inline;
+  }
+
+  .business-carda{
+    font-size: 20px;
+    color: rgb(50,50,50);
+    transition: color 0.3s ease;
+  }
+
+  .business-card a:hover{
+
+    color: rgb(70,70,70);
+  }
+
+  .business-card .btn-blue{
+    font-size: 18px;
+    color: white;
+    background-color: #39AECF;
+    font-family: 'Baloo Tamma 2', cursive;
+    padding: 5px 25px;
+    border-radius: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+  }
+
+  .business-card .btn-blue:hover{
+    font-size: 17px;
+    color: white;
+    background-color:#057D9F;
+  }

@@ -1,0 +1,14 @@
+.rollmenu ul{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.rollmenu ul li{
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+
+.rollmenu ul img{
+    border-radius: 50%;
+    width: 2rem;
+  }
