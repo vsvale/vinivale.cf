@@ -5,7 +5,7 @@
 @import url('components/menu.css');
 @import url('components/rollmenu.css');
 @import url('components/business-card.css');
-
+@import url('components/accordion.css');
 * {
   box-sizing: border-box;
 }
